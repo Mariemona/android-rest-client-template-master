@@ -7,5 +7,6 @@
     <string name="title_activity_timeLime">Home TimeLime</string>
     <string name="login_label">Connect to Twitter</string>
     <string name="title_activity_timeline">Home Timeline</string>
+    <string name="title_activity_profile">Profile</string>
 
 </resources>
